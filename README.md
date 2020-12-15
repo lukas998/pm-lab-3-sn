@@ -13,4 +13,4 @@ Numer albumu: 69627
 Grupa studencka: WEL18DE1S1
 
 # Odpowiedzi do pytań z instrukcji
-...
+3.2.2
